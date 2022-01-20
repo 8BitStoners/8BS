@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5dc74099e285e7a59129932d030f0c00edc90891",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5dc74099e285e7a59129932d030f0c00edc90891",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "8 Bit Stoners",
+  "SYMBOL": "8BS",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/8-bit-stoners",
+  "SHOW_BACKGROUND": true
+}
